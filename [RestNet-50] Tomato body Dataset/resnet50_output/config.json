@@ -1,0 +1,14 @@
+{
+    "dataset_root": "C:\\Users\\arafa\\Documents\\Thesis\\Tomato body Dataset",
+    "annotation_file": "C:\\Users\\arafa\\Documents\\Thesis\\Tomato body Dataset\\Dataset_anotations.xls",
+    "target": "side_case",
+    "class_names": [
+        "clear",
+        "defected"
+    ],
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 15,
+    "learning_rate": 0.0001,
+    "seed": 42
+}

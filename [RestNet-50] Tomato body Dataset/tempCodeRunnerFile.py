@@ -1,0 +1,1 @@
+5% validation, 15% test
