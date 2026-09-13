@@ -50,6 +50,8 @@ The primary goal of this repository is to systematically analyze architectural t
 ├── requirements.txt       # Project dependencies
 └── README.md              # Repository documentation
 
+```
+
 
 ---
 
