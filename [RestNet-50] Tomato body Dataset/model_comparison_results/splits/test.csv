@@ -1,0 +1,185 @@
+Serial,Unnamed: 1,Unnamed: 2,Name,Ripeness,Side Case,Symptom1,Symptom2,Symptom3,Recommendation 1,Recommendation 2,Photos,image_name,label,tomato_id,image_path,source_folder,split
+17,,5.0,T0005_E,Ripe,clear,,,,radial cracks,,,T0005_E,clear,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0005_E.png,Manualy Segmented,test
+17,,5.0,T0005_E,Ripe,clear,,,,radial cracks,,,T0005_E,clear,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0005_E.JPG,Unsegmented,test
+18,,,T0005_S1,Ripe,defected,Long horizontal crack,,,,,,T0005_S1,defected,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0005_S1.png,Manualy Segmented,test
+18,,,T0005_S1,Ripe,defected,Long horizontal crack,,,,,,T0005_S1,defected,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0005_S1.JPG,Unsegmented,test
+19,,,T0005_S2,Ripe,defected,Long horizontal crack,,,,,,T0005_S2,defected,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0005_S2.png,Manualy Segmented,test
+19,,,T0005_S2,Ripe,defected,Long horizontal crack,,,,,,T0005_S2,defected,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0005_S2.JPG,Unsegmented,test
+20,,,T0005_T,Ripe,defected,2 Long radial cracks,,,,,,T0005_T,defected,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0005_T.png,Manualy Segmented,test
+20,,,T0005_T,Ripe,defected,2 Long radial cracks,,,,,,T0005_T,defected,T0005,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0005_T.JPG,Unsegmented,test
+37,,10.0,T0010_E,Ripe,defected,1 Radial crack,,,radial cracks,,,T0010_E,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0010_E.png,Manualy Segmented,test
+37,,10.0,T0010_E,Ripe,defected,1 Radial crack,,,radial cracks,,,T0010_E,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0010_E.JPG,Unsegmented,test
+38,,,T0010_S1,Ripe,defected,Long horizontal crack,,,,,,T0010_S1,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0010_S1.png,Manualy Segmented,test
+38,,,T0010_S1,Ripe,defected,Long horizontal crack,,,,,,T0010_S1,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0010_S1.JPG,Unsegmented,test
+39,,,T0010_S2,Ripe,defected,Long horizontal crack,,,,,,T0010_S2,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0010_S2.png,Manualy Segmented,test
+39,,,T0010_S2,Ripe,defected,Long horizontal crack,,,,,,T0010_S2,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0010_S2.JPG,Unsegmented,test
+40,,,T0010_T,Ripe,defected,2 Long radial cracks,,,,,,T0010_T,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0010_T.png,Manualy Segmented,test
+40,,,T0010_T,Ripe,defected,2 Long radial cracks,,,,,,T0010_T,defected,T0010,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0010_T.JPG,Unsegmented,test
+61,,16.0,T0016_E,Ripe,clear,,,,Normal,,,T0016_E,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0016_E.png,Manualy Segmented,test
+61,,16.0,T0016_E,Ripe,clear,,,,Normal,,,T0016_E,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0016_E.JPG,Unsegmented,test
+62,,,T0016_S1,Ripe,clear,,,,,,,T0016_S1,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0016_S1.png,Manualy Segmented,test
+62,,,T0016_S1,Ripe,clear,,,,,,,T0016_S1,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0016_S1.JPG,Unsegmented,test
+63,,,T0016_S2,Ripe,clear,,,,,,,T0016_S2,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0016_S2.png,Manualy Segmented,test
+63,,,T0016_S2,Ripe,clear,,,,,,,T0016_S2,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0016_S2.JPG,Unsegmented,test
+64,,,T0016_T,Ripe,clear,,,,,,,T0016_T,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0016_T.png,Manualy Segmented,test
+64,,,T0016_T,Ripe,clear,,,,,,,T0016_T,clear,T0016,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0016_T.JPG,Unsegmented,test
+73,,19.0,T0019_E,Ripe,clear,,,,Normal,,,T0019_E,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0019_E.png,Manualy Segmented,test
+73,,19.0,T0019_E,Ripe,clear,,,,Normal,,,T0019_E,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0019_E.JPG,Unsegmented,test
+74,,,T0019_S1,Ripe,clear,,,,,,,T0019_S1,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0019_S1.png,Manualy Segmented,test
+74,,,T0019_S1,Ripe,clear,,,,,,,T0019_S1,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0019_S1.JPG,Unsegmented,test
+75,,,T0019_S2,Ripe,clear,,,,,,,T0019_S2,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0019_S2.png,Manualy Segmented,test
+75,,,T0019_S2,Ripe,clear,,,,,,,T0019_S2,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0019_S2.JPG,Unsegmented,test
+76,,,T0019_T,Ripe,clear,,,,,,,T0019_T,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0019_T.png,Manualy Segmented,test
+76,,,T0019_T,Ripe,clear,,,,,,,T0019_T,clear,T0019,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0019_T.JPG,Unsegmented,test
+105,,27.0,T0027_E,Ripe,clear,,,,Normal,,,T0027_E,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0027_E.png,Manualy Segmented,test
+105,,27.0,T0027_E,Ripe,clear,,,,Normal,,,T0027_E,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0027_E.JPG,Unsegmented,test
+106,,,T0027_S1,Ripe,clear,,,,,,,T0027_S1,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0027_S1.png,Manualy Segmented,test
+106,,,T0027_S1,Ripe,clear,,,,,,,T0027_S1,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0027_S1.JPG,Unsegmented,test
+107,,,T0027_S2,Ripe,clear,,,,,,,T0027_S2,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0027_S2.png,Manualy Segmented,test
+107,,,T0027_S2,Ripe,clear,,,,,,,T0027_S2,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0027_S2.JPG,Unsegmented,test
+108,,,T0027_T,Ripe,clear,,,,,,,T0027_T,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0027_T.png,Manualy Segmented,test
+108,,,T0027_T,Ripe,clear,,,,,,,T0027_T,clear,T0027,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0027_T.JPG,Unsegmented,test
+117,,30.0,T0030_E,Ripe,clear,,,,Normal,,,T0030_E,clear,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0030_E.png,Manualy Segmented,test
+117,,30.0,T0030_E,Ripe,clear,,,,Normal,,,T0030_E,clear,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0030_E.JPG,Unsegmented,test
+118,,,T0030_S1,Ripe,clear,,,,,,,T0030_S1,clear,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0030_S1.png,Manualy Segmented,test
+118,,,T0030_S1,Ripe,clear,,,,,,,T0030_S1,clear,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0030_S1.JPG,Unsegmented,test
+119,,,T0030_S2,Ripe,clear,,,,,,,T0030_S2,clear,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0030_S2.png,Manualy Segmented,test
+119,,,T0030_S2,Ripe,clear,,,,,,,T0030_S2,clear,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0030_S2.JPG,Unsegmented,test
+120,,,T0030_T,Ripe,defected,Yellow Shoulders,,,,Yellow Shoulders,,T0030_T,defected,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0030_T.png,Manualy Segmented,test
+120,,,T0030_T,Ripe,defected,Yellow Shoulders,,,,Yellow Shoulders,,T0030_T,defected,T0030,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0030_T.JPG,Unsegmented,test
+121,,31.0,T0031_E,Ripe,clear,,,,Normal,,,T0031_E,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0031_E.png,Manualy Segmented,test
+121,,31.0,T0031_E,Ripe,clear,,,,Normal,,,T0031_E,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0031_E.JPG,Unsegmented,test
+122,,,T0031_S1,Ripe,clear,,,,,,,T0031_S1,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0031_S1.png,Manualy Segmented,test
+122,,,T0031_S1,Ripe,clear,,,,,,,T0031_S1,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0031_S1.JPG,Unsegmented,test
+123,,,T0031_S2,Ripe,clear,,,,,,,T0031_S2,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0031_S2.png,Manualy Segmented,test
+123,,,T0031_S2,Ripe,clear,,,,,,,T0031_S2,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0031_S2.JPG,Unsegmented,test
+124,,,T0031_T,Ripe,clear,,,,,,,T0031_T,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0031_T.png,Manualy Segmented,test
+124,,,T0031_T,Ripe,clear,,,,,,,T0031_T,clear,T0031,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0031_T.JPG,Unsegmented,test
+169,,43.0,T0043_E,Ripe,clear,,,,Normal,,,T0043_E,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0043_E.png,Manualy Segmented,test
+169,,43.0,T0043_E,Ripe,clear,,,,Normal,,,T0043_E,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0043_E.JPG,Unsegmented,test
+170,,,T0043_S1,Ripe,clear,,,,,,,T0043_S1,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0043_S1.png,Manualy Segmented,test
+170,,,T0043_S1,Ripe,clear,,,,,,,T0043_S1,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0043_S1.JPG,Unsegmented,test
+171,,,T0043_S2,Ripe,clear,,,,,,,T0043_S2,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0043_S2.png,Manualy Segmented,test
+171,,,T0043_S2,Ripe,clear,,,,,,,T0043_S2,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0043_S2.JPG,Unsegmented,test
+172,,,T0043_T,Ripe,clear,,,,,,,T0043_T,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0043_T.png,Manualy Segmented,test
+172,,,T0043_T,Ripe,clear,,,,,,,T0043_T,clear,T0043,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0043_T.JPG,Unsegmented,test
+221,,56.0,T0056_E,ripe,clear,,,,stem end rot,,,T0056_E,clear,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0056_E.png,Manualy Segmented,test
+221,,56.0,T0056_E,ripe,clear,,,,stem end rot,,,T0056_E,clear,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0056_E.JPG,Unsegmented,test
+222,,,T0056_S1,ripe,defected,Black blotch,,,stem end rot,,,T0056_S1,defected,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0056_S1.png,Manualy Segmented,test
+222,,,T0056_S1,ripe,defected,Black blotch,,,stem end rot,,,T0056_S1,defected,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0056_S1.JPG,Unsegmented,test
+223,,,T0056_S2,ripe,defected,Black blotch,,,stem end rot,,,T0056_S2,defected,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0056_S2.png,Manualy Segmented,test
+223,,,T0056_S2,ripe,defected,Black blotch,,,stem end rot,,,T0056_S2,defected,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0056_S2.JPG,Unsegmented,test
+224,,,T0056_T,ripe,defected,Black round area at the center,,,stem end rot,,,T0056_T,defected,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0056_T.png,Manualy Segmented,test
+224,,,T0056_T,ripe,defected,Black round area at the center,,,stem end rot,,,T0056_T,defected,T0056,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0056_T.JPG,Unsegmented,test
+257,,65.0,T0065_E,unripe,clear,,,,Normal,,,T0065_E,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0065_E.png,Manualy Segmented,test
+257,,65.0,T0065_E,unripe,clear,,,,Normal,,,T0065_E,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0065_E.JPG,Unsegmented,test
+258,,,T0065_S1,ripe,clear,,,,Normal,,,T0065_S1,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0065_S1.png,Manualy Segmented,test
+258,,,T0065_S1,ripe,clear,,,,Normal,,,T0065_S1,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0065_S1.JPG,Unsegmented,test
+259,,,T0065_S2,ripe,clear,,,,Normal,,,T0065_S2,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0065_S2.png,Manualy Segmented,test
+259,,,T0065_S2,ripe,clear,,,,Normal,,,T0065_S2,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0065_S2.JPG,Unsegmented,test
+260,,,T0065_T,ripe,clear,,,,Normal,,,T0065_T,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0065_T.png,Manualy Segmented,test
+260,,,T0065_T,ripe,clear,,,,Normal,,,T0065_T,clear,T0065,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0065_T.JPG,Unsegmented,test
+273,,69.0,T0069_E,ripe,clear,,,,Anthracnose,,,T0069_E,clear,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0069_E.png,Manualy Segmented,test
+273,,69.0,T0069_E,ripe,clear,,,,Anthracnose,,,T0069_E,clear,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0069_E.JPG,Unsegmented,test
+274,,,T0069_S1,ripe,defected,Black area near the center,,,Anthracnose,,,T0069_S1,defected,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0069_S1.png,Manualy Segmented,test
+274,,,T0069_S1,ripe,defected,Black area near the center,,,Anthracnose,,,T0069_S1,defected,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0069_S1.JPG,Unsegmented,test
+275,,,T0069_S2,ripe,clear,,,,Anthracnose,,,T0069_S2,clear,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0069_S2.png,Manualy Segmented,test
+275,,,T0069_S2,ripe,clear,,,,Anthracnose,,,T0069_S2,clear,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0069_S2.JPG,Unsegmented,test
+276,,,T0069_T,ripe,defected,Black area near center,,,Anthracnose,,,T0069_T,defected,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0069_T.png,Manualy Segmented,test
+276,,,T0069_T,ripe,defected,Black area near center,,,Anthracnose,,,T0069_T,defected,T0069,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0069_T.JPG,Unsegmented,test
+277,,70.0,T0070_E,ripe,clear,,,,Anthracnose,,,T0070_E,clear,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0070_E.png,Manualy Segmented,test
+277,,70.0,T0070_E,ripe,clear,,,,Anthracnose,,,T0070_E,clear,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0070_E.JPG,Unsegmented,test
+278,,,T0070_S1,ripe,defected,Black area near end,,,Anthracnose,,,T0070_S1,defected,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0070_S1.png,Manualy Segmented,test
+278,,,T0070_S1,ripe,defected,Black area near end,,,Anthracnose,,,T0070_S1,defected,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0070_S1.JPG,Unsegmented,test
+279,,,T0070_S2,ripe,clear,,,,Anthracnose,,,T0070_S2,clear,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0070_S2.png,Manualy Segmented,test
+279,,,T0070_S2,ripe,clear,,,,Anthracnose,,,T0070_S2,clear,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0070_S2.JPG,Unsegmented,test
+280,,,T0070_T,ripe,defected,Black area near center,,,Anthracnose,,,T0070_T,defected,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0070_T.png,Manualy Segmented,test
+280,,,T0070_T,ripe,defected,Black area near center,,,Anthracnose,,,T0070_T,defected,T0070,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0070_T.JPG,Unsegmented,test
+305,,77.0,T0077_E,ripe,clear,,,,Anthracnose,,,T0077_E,clear,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0077_E.png,Manualy Segmented,test
+305,,77.0,T0077_E,ripe,clear,,,,Anthracnose,,,T0077_E,clear,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0077_E.JPG,Unsegmented,test
+306,,,T0077_S1,ripe,defected,black area at the center,,,Anthracnose,,,T0077_S1,defected,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0077_S1.png,Manualy Segmented,test
+306,,,T0077_S1,ripe,defected,black area at the center,,,Anthracnose,,,T0077_S1,defected,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0077_S1.JPG,Unsegmented,test
+307,,,T0077_S2,ripe,clear,,,,Anthracnose,,,T0077_S2,clear,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0077_S2.png,Manualy Segmented,test
+307,,,T0077_S2,ripe,clear,,,,Anthracnose,,,T0077_S2,clear,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0077_S2.JPG,Unsegmented,test
+308,,,T0077_T,ripe,defected,Black area at the edges,,,Anthracnose,,,T0077_T,defected,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0077_T.png,Manualy Segmented,test
+308,,,T0077_T,ripe,defected,Black area at the edges,,,Anthracnose,,,T0077_T,defected,T0077,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0077_T.JPG,Unsegmented,test
+313,,79.0,T0079_E,ripe,clear,,,,stem end rot,,,T0079_E,clear,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0079_E.png,Manualy Segmented,test
+313,,79.0,T0079_E,ripe,clear,,,,stem end rot,,,T0079_E,clear,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0079_E.JPG,Unsegmented,test
+314,,,T0079_S1,ripe,defected,black area near end,,,stem end rot,,,T0079_S1,defected,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0079_S1.png,Manualy Segmented,test
+314,,,T0079_S1,ripe,defected,black area near end,,,stem end rot,,,T0079_S1,defected,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0079_S1.JPG,Unsegmented,test
+315,,,T0079_S2,ripe,defected,black area near end,black spots,,stem end rot,,,T0079_S2,defected,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0079_S2.png,Manualy Segmented,test
+315,,,T0079_S2,ripe,defected,black area near end,black spots,,stem end rot,,,T0079_S2,defected,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0079_S2.JPG,Unsegmented,test
+316,,,T0079_T,ripe,defected,black round area at the center,,,stem end rot,,,T0079_T,defected,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0079_T.png,Manualy Segmented,test
+316,,,T0079_T,ripe,defected,black round area at the center,,,stem end rot,,,T0079_T,defected,T0079,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0079_T.JPG,Unsegmented,test
+377,,95.0,T0095_E,ripe,clear,,,,stem end rot,Anthracnose,,T0095_E,clear,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0095_E.png,Manualy Segmented,test
+377,,95.0,T0095_E,ripe,clear,,,,stem end rot,Anthracnose,,T0095_E,clear,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0095_E.JPG,Unsegmented,test
+378,,,T0095_S1,ripe,clear,,,,stem end rot,,,T0095_S1,clear,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0095_S1.png,Manualy Segmented,test
+378,,,T0095_S1,ripe,clear,,,,stem end rot,,,T0095_S1,clear,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0095_S1.JPG,Unsegmented,test
+379,,,T0095_S2,ripe,defected,black area at near the end,,,stem end rot,,,T0095_S2,defected,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0095_S2.png,Manualy Segmented,test
+379,,,T0095_S2,ripe,defected,black area at near the end,,,stem end rot,,,T0095_S2,defected,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0095_S2.JPG,Unsegmented,test
+380,,,T0095_T,ripe,defected,Black round area at the center,soft area  at the center,,stem end rot,,,T0095_T,defected,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0095_T.png,Manualy Segmented,test
+380,,,T0095_T,ripe,defected,Black round area at the center,soft area  at the center,,stem end rot,,,T0095_T,defected,T0095,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0095_T.JPG,Unsegmented,test
+385,,97.0,T0097_E,ripe,clear,,,,stem end rot,,,T0097_E,clear,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0097_E.png,Manualy Segmented,test
+385,,97.0,T0097_E,ripe,clear,,,,stem end rot,,,T0097_E,clear,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0097_E.JPG,Unsegmented,test
+386,,,T0097_S1,ripe,defected,black area at the end,,,stem end rot,,,T0097_S1,defected,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0097_S1.png,Manualy Segmented,test
+386,,,T0097_S1,ripe,defected,black area at the end,,,stem end rot,,,T0097_S1,defected,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0097_S1.JPG,Unsegmented,test
+387,,,T0097_S2,ripe,defected,black area at the end,,,stem end rot,,,T0097_S2,defected,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0097_S2.png,Manualy Segmented,test
+387,,,T0097_S2,ripe,defected,black area at the end,,,stem end rot,,,T0097_S2,defected,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0097_S2.JPG,Unsegmented,test
+388,,,T0097_T,ripe,defected,Black round area at the center,,,stem end rot,,,T0097_T,defected,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0097_T.png,Manualy Segmented,test
+388,,,T0097_T,ripe,defected,Black round area at the center,,,stem end rot,,,T0097_T,defected,T0097,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0097_T.JPG,Unsegmented,test
+437,,110.0,T0110_E,ripe,defected,white area at the center,,,sun scald,,,T0110_E,defected,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0110_E.png,Manualy Segmented,test
+437,,110.0,T0110_E,ripe,defected,white area at the center,,,sun scald,,,T0110_E,defected,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0110_E.JPG,Unsegmented,test
+438,,,T0110_S1,ripe,clear,,,,sun scald,,,T0110_S1,clear,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0110_S1.png,Manualy Segmented,test
+438,,,T0110_S1,ripe,clear,,,,sun scald,,,T0110_S1,clear,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0110_S1.JPG,Unsegmented,test
+439,,,T0110_S2,ripe,clear,,,,sun scald,,,T0110_S2,clear,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0110_S2.png,Manualy Segmented,test
+439,,,T0110_S2,ripe,clear,,,,sun scald,,,T0110_S2,clear,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0110_S2.JPG,Unsegmented,test
+440,,,T0110_T,ripe,clear,,,,sun scald,,,T0110_T,clear,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0110_T.png,Manualy Segmented,test
+440,,,T0110_T,ripe,clear,,,,sun scald,,,T0110_T,clear,T0110,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0110_T.JPG,Unsegmented,test
+461,,116.0,T0116_E,ripe,clear,,,,worms,not sure,,T0116_E,clear,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0116_E.png,Manualy Segmented,test
+461,,116.0,T0116_E,ripe,clear,,,,worms,not sure,,T0116_E,clear,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0116_E.JPG,Unsegmented,test
+462,,,T0116_S1,ripe,clear,,,,worm,,,T0116_S1,clear,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0116_S1.png,Manualy Segmented,test
+462,,,T0116_S1,ripe,clear,,,,worm,,,T0116_S1,clear,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0116_S1.JPG,Unsegmented,test
+463,,,T0116_S2,ripe,defected,black medium spots,soft area  at the center,,worm,,,T0116_S2,defected,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0116_S2.png,Manualy Segmented,test
+463,,,T0116_S2,ripe,defected,black medium spots,soft area  at the center,,worm,,,T0116_S2,defected,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0116_S2.JPG,Unsegmented,test
+464,,,T0116_T,ripe,defected,,spots,,worm,,,T0116_T,defected,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0116_T.png,Manualy Segmented,test
+464,,,T0116_T,ripe,defected,,spots,,worm,,,T0116_T,defected,T0116,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0116_T.JPG,Unsegmented,test
+509,,128.0,T0128_E,ripe,defected,orange color,,,not sure,,,T0128_E,defected,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0128_E.png,Manualy Segmented,test
+509,,128.0,T0128_E,ripe,defected,orange color,,,not sure,,,T0128_E,defected,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0128_E.JPG,Unsegmented,test
+510,,,T0128_S1,ripe,defected,orange color,spots,,not sure,,,T0128_S1,defected,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0128_S1.png,Manualy Segmented,test
+510,,,T0128_S1,ripe,defected,orange color,spots,,not sure,,,T0128_S1,defected,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0128_S1.JPG,Unsegmented,test
+511,,,T0128_S2,ripe,clear,orange color,,,not sure,,,T0128_S2,clear,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0128_S2.png,Manualy Segmented,test
+511,,,T0128_S2,ripe,clear,orange color,,,not sure,,,T0128_S2,clear,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0128_S2.JPG,Unsegmented,test
+512,,,T0128_T,ripe,defected,orange color,Yellow Shoulders,,not sure,,,T0128_T,defected,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0128_T.png,Manualy Segmented,test
+512,,,T0128_T,ripe,defected,orange color,Yellow Shoulders,,not sure,,,T0128_T,defected,T0128,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0128_T.JPG,Unsegmented,test
+513,,129.0,T0129_E,ripe,defected,orange color,,,not sure,,,T0129_E,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0129_E.png,Manualy Segmented,test
+513,,129.0,T0129_E,ripe,defected,orange color,,,not sure,,,T0129_E,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0129_E.JPG,Unsegmented,test
+514,,,T0129_S1,ripe,defected,orange color,,,not sure,,,T0129_S1,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0129_S1.png,Manualy Segmented,test
+514,,,T0129_S1,ripe,defected,orange color,,,not sure,,,T0129_S1,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0129_S1.JPG,Unsegmented,test
+515,,,T0129_S2,ripe,defected,orange color,,,not sure,,,T0129_S2,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0129_S2.png,Manualy Segmented,test
+515,,,T0129_S2,ripe,defected,orange color,,,not sure,,,T0129_S2,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0129_S2.JPG,Unsegmented,test
+516,,,T0129_T,ripe,defected,yellow spots,,,not sure,,,T0129_T,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0129_T.png,Manualy Segmented,test
+516,,,T0129_T,ripe,defected,yellow spots,,,not sure,,,T0129_T,defected,T0129,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0129_T.JPG,Unsegmented,test
+525,,132.0,T0132_E,ripe,defected,black spots,,,sun scald,,,T0132_E,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0132_E.png,Manualy Segmented,test
+525,,132.0,T0132_E,ripe,defected,black spots,,,sun scald,,,T0132_E,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0132_E.JPG,Unsegmented,test
+526,,,T0132_S1,ripe,defected,black spots,,,sun scald,,,T0132_S1,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0132_S1.png,Manualy Segmented,test
+526,,,T0132_S1,ripe,defected,black spots,,,sun scald,,,T0132_S1,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0132_S1.JPG,Unsegmented,test
+527,,,T0132_S2,ripe,defected,yellow blotchs near the end,,,sun scald,,,T0132_S2,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0132_S2.png,Manualy Segmented,test
+527,,,T0132_S2,ripe,defected,yellow blotchs near the end,,,sun scald,,,T0132_S2,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0132_S2.JPG,Unsegmented,test
+528,,,T0132_T,ripe,defected,yellow blotchs near the center,,,sun scald,,,T0132_T,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0132_T.png,Manualy Segmented,test
+528,,,T0132_T,ripe,defected,yellow blotchs near the center,,,sun scald,,,T0132_T,defected,T0132,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0132_T.JPG,Unsegmented,test
+537,,135.0,T0135_E,ripe,defected,Ununiform color,,,sun scald,,,T0135_E,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0135_E.png,Manualy Segmented,test
+537,,135.0,T0135_E,ripe,defected,Ununiform color,,,sun scald,,,T0135_E,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0135_E.JPG,Unsegmented,test
+538,,,T0135_S1,ripe,defected,Ununiform color,,,sun scald,,,T0135_S1,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0135_S1.png,Manualy Segmented,test
+538,,,T0135_S1,ripe,defected,Ununiform color,,,sun scald,,,T0135_S1,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0135_S1.JPG,Unsegmented,test
+539,,,T0135_S2,ripe,defected,Ununiform color,,,sun scald,,,T0135_S2,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0135_S2.png,Manualy Segmented,test
+539,,,T0135_S2,ripe,defected,Ununiform color,,,sun scald,,,T0135_S2,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0135_S2.JPG,Unsegmented,test
+540,,,T0135_T,ripe,defected,Yellow Shoulders,,,sun scald,,,T0135_T,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0135_T.png,Manualy Segmented,test
+540,,,T0135_T,ripe,defected,Yellow Shoulders,,,sun scald,,,T0135_T,defected,T0135,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0135_T.JPG,Unsegmented,test
+545,,137.0,T0137_E,ripe,defected,ununiform shape,,,sun scald,,,T0137_E,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0137_E.png,Manualy Segmented,test
+545,,137.0,T0137_E,ripe,defected,ununiform shape,,,sun scald,,,T0137_E,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0137_E.JPG,Unsegmented,test
+546,,,T0137_S1,ripe,defected,white area at the center,,,sun scald,,,T0137_S1,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0137_S1.png,Manualy Segmented,test
+546,,,T0137_S1,ripe,defected,white area at the center,,,sun scald,,,T0137_S1,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0137_S1.JPG,Unsegmented,test
+547,,,T0137_S2,ripe,defected,Ununiform color,,,sun scald,,,T0137_S2,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0137_S2.png,Manualy Segmented,test
+547,,,T0137_S2,ripe,defected,Ununiform color,,,sun scald,,,T0137_S2,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0137_S2.JPG,Unsegmented,test
+548,,,T0137_T,ripe,defected,yellow spots,,,sun scald,,,T0137_T,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Manualy Segmented\T0137_T.png,Manualy Segmented,test
+548,,,T0137_T,ripe,defected,yellow spots,,,sun scald,,,T0137_T,defected,T0137,C:\Users\arafa\Documents\Thesis\[RestNet-50] Tomato body Dataset\Unsegmented\T0137_T.JPG,Unsegmented,test
