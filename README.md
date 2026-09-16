@@ -19,6 +19,12 @@ The primary goal of this repository is to systematically analyze architectural t
 | **VGG16** | Classical Sequential | Small $3 \times 3$ convolutional filters, deep stack | Baseline feature extraction |
 | **ResNet-50** | Residual Learning | Skip connections ($F(x) + x$) to solve vanishing gradients | Deep feature representation |
 | **DenseNet-121** | Feature Concatenation | Direct layer-to-layer feature reuse, high parameter efficiency | Medical imaging & resource-constrained tasks |
+| **InceptionV3** | Multi-Scale Feature Extraction | Parallel $1 \times 1$, $3 \times 3$, $5 \times 5$ branches + auxiliary classifiers | Wide-context image recognition |
+| **ResNeXt-50** | Cardinality / Grouped Convolutions | Split-transform-merge with 32 parallel branches | Cost-effective stronger residual baselines |
+| **MobileNetV2** | Depthwise Separable Convolutions | Inverted residuals + linear bottlenecks | On-device / edge deployment |
+| **EfficientNet-B0** | Neural Architecture Search + Compound Scaling | Uniformly scales width, depth, and resolution | State-of-the-art accuracy / FLOPs trade-off |
+| **Xception** | Depthwise Separable Convolutions | Extreme Inception with residual depthwise-separable stacks | Efficient large-scale feature extraction |
+| **ViT (Base/16)** | Vision Transformer | Pure self-attention patches instead of convolutions | Modern transformer-based classification |
 
 ---
 
@@ -66,7 +72,7 @@ The primary goal of this repository is to systematically analyze architectural t
 ## 👤 Author
 
 **Md Arafat Hossain Sani**  
-*MERN Stack Developer & Computer Science Student*  
+*MERN Stack Developer & Deep Learning Enthusiast*  
 
 * **GitHub:** [@hossain-sani](https://github.com/hossain-sani)  
 * **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hossain-sani)
